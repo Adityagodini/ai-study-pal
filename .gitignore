@@ -1,0 +1,16 @@
+venv/
+pycache/
+*.pyc
+*.pyo
+*.log
+.egg-info/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+.vscode/
+.env
+.env.
+data/schedule.csv
+data/quiz.csv
+data/user_inputs.csv
+nltk_data/
